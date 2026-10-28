@@ -1,0 +1,6 @@
+{
+  "name": "Ignition Nexus Studios",
+  "description": "Professional studio music experience with Auto AI Sound Enhancement, Dolby Atmos 6.2 surround audio, personalized hearing calibration, media output adaptation, and cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
